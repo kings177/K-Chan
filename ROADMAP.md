@@ -1,14 +1,14 @@
 ROADMAP
 =======
 
-Kindelia's development will follow a 4-phases roadmap.
+K-Chan's development will follow a 4-phases roadmap.
 
 Prelude: client development
 ---------------------------
 
 ### Jan 2022 - Jul 2022
 
-Kindelia's paper and client prototype will be developed, including:
+K-Chan's paper and client prototype will be developed, including:
 
 - A Proof-of-Work network, for consensus.
 
@@ -21,7 +21,7 @@ Neon: testnet release
 
 ### Jul 2022 - Jan 2023
 
-- Kindelia's network and client prototype will be heavily tested.
+- K-Chan's network and client prototype will be heavily tested.
 
 - Kindelia Foundation's Initial Name Offering (INO) will take place on Ethereum's network.
 
@@ -32,15 +32,15 @@ Genesis: mainnet release
 
 ### Jan 2023 - Jan 2024
 
-- Kindelia's Genesis Block (block #0) will be mined. On it:
+- K-Chan's Genesis Block (block #0) will be mined. On it:
 
     - Primitive utilities like tuples will be deployed.
 
-    - Kindelia's empty namespace will be registered by the Kindelia Foundation.
+    - K-Chan's empty namespace will be registered by the Kindelia Foundation.
 
     - The namespaces purchased on the INO will be granted to its owners.
 
-    - Kindelia Genesis Token (KGT) will be deployed.
+    - K-Chan Genesis Token (KGT) will be deployed.
 
         KGT will work exactly like Bitcoin (BTC), including halvings and no premine.
 
@@ -57,7 +57,7 @@ Evangelion: mainnet history
 
 - The network will be considered stable and no more patches should be expected.
 
-- Kindelia will host a constellation of hack-proof apps with minimal fees and infinite uptime.
+- K-Chan will host a constellation of hack-proof apps with minimal fees and infinite uptime.
 
 - The Kindelia Foundation will no longer maintain the network. It will focus on:
 
@@ -77,12 +77,12 @@ Evangelion: mainnet history
 
 ### What does it mean?
 
-Kindelia was created to be maintenance-free, which, by design, happens when you try to get rid
+K-Chan was created to be maintenance-free, which, by design, happens when you try to get rid
 of the privileged class of "core developers" or "owner foundation" who are inevitably in a
 position of power, which is the only way to achieve true decentralization. With that in mind,
 the Kindelia Foundation aims to fulfill a supportive role, promoting the growth of the network
 and the applications that live inside the blockchain, while also researching related technologies.
-Note that this does not mean that the Kindelia Foundation will deliberately stop working on Kindelia.
+Note that this does not mean that the Kindelia Foundation will deliberately stop working on K-Chan.
 Quite the opposite: It, Its Founders and Developers, are and always will be fully committed to trying
 to keep this network healthy and functional, including myself (Taelin). What it means is that, if 
 all goes as planned, this role will never be needed.
