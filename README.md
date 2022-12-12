@@ -1,6 +1,6 @@
-# Kindelia: a minimal peer-to-peer computer that isn't a cryptocurrency
+# K-Chan: a minimal peer-to-peer computer that isn't a cryptocurrency
 
-Kindelia is a peer-to-peer functional computer capable of hosting decentralized
+K-Chan is a peer-to-peer functional computer capable of hosting decentralized
 apps that stay up forever. Essentially, it is a minimalist redesign of
 Ethereum's idea, built upon type-theoretic foundations. Differences include:
 
@@ -35,7 +35,7 @@ Ethereum's idea, built upon type-theoretic foundations. Differences include:
 - Clone this repository, navigate to its root directory, and run:
 
     ```sh
-    cargo install --path kindelia
+    cargo install --path kchan
     ```
 
 ## Usage
@@ -43,25 +43,25 @@ Ethereum's idea, built upon type-theoretic foundations. Differences include:
 1. Start a node:
 
     ```sh
-    kindelia node start [--mine]
+    kchan node start [--mine]
     ```
 
 2. Run transactions offline:
 
     ```sh
-    kindelia test example/example.kdl
+    kchan test example/example.kdl
     ```
 
 3. Dry run transactions in your local node:
 
     ```sh
-    kindelia run-remote example/example.kdl
+    kchan run-remote example/example.kdl
     ```
 
 4. Posting transactions to your local node:
 
      ```sh
-     kindelia publish example/example.kdl
+     kchan publish example/example.kdl
      ```
 
 ---
@@ -70,20 +70,20 @@ Ethereum's idea, built upon type-theoretic foundations. Differences include:
 
 ### Bash
 
-Source the output of `kindelia completion bash`.
+Source the output of `kchan completion bash`.
 
 ```sh
-kindelia completion bash > kindelia_completion.sh
-source kindelia_completion.sh
+kchan completion bash > kchan_completion.sh
+source kchan_completion.sh
 ```
 
 ### Zsh
 
-Put the output of `kindelia completion zsh` in a folder listed in your `$FPATH`
+Put the output of `kchan completion zsh` in a folder listed in your `$FPATH`
 (e.g. `/usr/local/share/zsh/site-functions`).
 
 ```zsh
-kindelia completion zsh > kindelia_completion.sh
+kchan completion zsh > kchan_completion.sh
 ```
 
 [HVM]: https://github.com/kindelia/hvm
